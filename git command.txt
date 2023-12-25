@@ -1,0 +1,29 @@
+
+git push -u origin main
+
+
+console.log("Hello GitHub")
+
+git add .
+
+git commit -m "add Hello GitHub in app.js"
+
+git pull
+
+git add .
+
+gitcommit -m "modified confilict"
+
+pit push
+
+touch READNE.md
+(
+โปรเจกต์เริ่มต้น
+โปรเจกต์นี้เกี่ยวกบระลลการขายสินค้าและรายงานยอดขาย
+)
+
+git add .
+
+git commit -m "add document"
+
+git push
